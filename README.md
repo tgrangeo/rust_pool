@@ -1,5 +1,5 @@
 [x]. Command-line todo app
-[ ]. Markdown to HTML converter
+[x]. Markdown to HTML converter
 [ ]. Calculator
 [ ]. Basic file encryption tool
 [ ]. Game of Life
